@@ -1,7 +1,7 @@
 # Hi there, I'm Billy Erickson! 👋
 ### Data Analyst | Mathematics Graduate (UI) | SQL, Python & Power BI Specialist
 
-📍 **Bogor, Indonesia** | 📧 [Email Me](mailto:billy17@sci.ui.ac.id) | 🔗 [LinkedIn](https://www.linkedin.com/in/billyerickson/) | 📂 [Portfolio](https://github.com/billyerickson/Air-Purifier-Market-Strategy))
+📍 **Bogor, Indonesia** | 📧 [Email Me](mailto:billy17@sci.ui.ac.id) | 🔗 [LinkedIn](https://www.linkedin.com/in/billyerickson/) 
 
 ---
 
@@ -30,9 +30,9 @@ I specialize in building financial models, automating data pipelines, and creati
 
 #### 1. 🌬️ [AirQuest - Market Entry Strategy](https://github.com/billyerickson/Air-Purifier-Market-Strategy/tree/main)
 *End-to-End Market Analysis untuk Peluncuran Smart Air Purifier*
-* [cite_start]**The Insight:** Uncovered a hidden **13% in Carbon Monoxide (CO)** in Karnataka using a Python ETL pipeline.
-* [cite_start]**The Strategy:** Developed a "Market Radar" using **RankX & Dynamic Segmentation** to identify the optimal entry point.
-* [cite_start]**The Result:** Modeled seasonality trends to pinpoint a specific "Strategic Launch Window" (Sept 15th).
+* **The Insight:** Uncovered a hidden **13% in Carbon Monoxide (CO)** in Karnataka using a Python ETL pipeline.
+* **The Strategy:** Developed a "Market Radar" using **RankX & Dynamic Segmentation** to identify the optimal entry point.
+* **The Result:** Modeled seasonality trends to pinpoint a specific "Strategic Launch Window" (Sept 15th).
 * **Tech Stack:** Python, Power BI, Advanced DAX.
 
 #### 2. ☕ [shopee-sales-analytics - Profitability Analysis](https://github.com/billyerickson/shopee-sales-analytics)
