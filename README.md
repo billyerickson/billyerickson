@@ -1,7 +1,7 @@
 # Hi there, I'm Billy Erickson! 👋
 ### Data Analyst | Mathematics Graduate (UI) | SQL, Python & Power BI Specialist
 
-📍 **Bogor, Indonesia** | 📧 [Email Me](mailto:billy17@sci.ui.ac.id) | 🔗 [LinkedIn](https://www.linkedin.com/in/billyerickson/) 
+📍 **Bogor, Indonesia** | 📧 [Email Me](mailto:billy.erickson@alumni.ui.ac.id) | 🔗 [LinkedIn](https://www.linkedin.com/in/billyerickson/) 
 
 ---
 
