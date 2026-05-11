@@ -35,12 +35,6 @@ I specialize in building financial models, automating data pipelines, and creati
 * **The Result:** Modeled seasonality trends to pinpoint a specific "Strategic Launch Window" (Sept 15th).
 * **Tech Stack:** Python, Power BI, Advanced DAX.
 
-#### 2. ☕ [shopee-sales-analytics - Profitability Analysis](https://github.com/billyerickson/shopee-sales-analytics)
-*Pricing Strategy & Cost Reduction*
-* **The Impact:** Identified negative profit margins and proposed a tiered pricing strategy to restore net margins to **15-20%**.
-* **Churn Prevention:** Detected **Rp 24.6 Million** in 'At-Risk' revenue by building a Customer Churn Radar.
-* **Tech Stack:** Power BI, Unit Economics, Forecasting.
-
 ---
 
 
